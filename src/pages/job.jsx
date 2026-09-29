@@ -7,7 +7,7 @@ import { Briefcase, DoorClosed, DoorOpen, MapPinIcon } from "lucide-react";
 
 import {
   Select,
-  SelectContent,
+    SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
